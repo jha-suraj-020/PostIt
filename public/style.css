@@ -1,0 +1,15 @@
+#del-camp
+{
+    display: inline;
+}
+
+#del-comment
+{
+    display: inline;
+}
+
+@media only screen and (max-width: 600px){
+    .cmp-file{
+        width: 80% !important;
+    }
+}
